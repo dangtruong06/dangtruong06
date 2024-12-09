@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dangtruong06 or Truong
+- 👋 Hi, I’m @dangtruong06 or Thinh
 - 👀 I’m interested in game development, as well as web development
 - 🌱 I’m currently learning C++, Python, Html, Javascript
 - 📫 How to reach me email: dangtt066@gmail.com
