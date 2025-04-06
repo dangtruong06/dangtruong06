@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dangtruong06 or Thinh
 - 👀 I am interested in game and web development
-- 🌱 I’m currently learning C++, Python, Html, Javascript
+- 🌱 I’m currently learning C++, Html/CSS, Javascript
 - 📫 How to reach me email: dangtt066@gmail.com
 - 😄 Pronouns: He/him
 
