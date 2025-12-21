@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dangtruong06, I am also known as Thinh or Tony
+- 👋 Hi, I’m @dangtruong06, I am also known as Tony
 - 👀 I am interested in game and web development
 - 🌱 I’m currently learning C++, Html/CSS, Javascript
 - 📫 How to reach me email: dangtt066@gmail.com
