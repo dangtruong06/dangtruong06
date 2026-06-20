@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @dangtruong06 or Tony
-- 👀 I am interested in backend web development
-- 🌱 I’m currently learning Python, Flask, and DSA
-- 📫 How to reach me email: dangtt066@gmail.com
-- 😄 Pronouns: He/him
+Hi, I'm Tony 👋
 
-<!---
-dangtruong06/dangtruong06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software engineering student at UCI passionate about backend development, web applications, and building software that solves real-world problems.
+
+👨‍💻 About Me
+🎓 Computer Science student
+💻 Interested in Backend Software Engineering
+🌱 Currently learning Flask, PostgreSQL, SQLAlchemy, REST APIs, and deployment
+📚 Practicing Data Structures & Algorithms and LeetCode
+🚀 Working toward a Software Engineering internship
+
+Connect with me:
+LinkedIn: https://www.linkedin.com/in/tony-dang11/
+Email: dangtt066@gmail.com
