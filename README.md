@@ -4,9 +4,8 @@ Software engineering student at UCI passionate about backend development, web ap
 
 👨‍💻 About Me
 🎓 Software Engineering student
-💻 Interested in Backend Software Engineering
+💻 Interested in Backend Engineering
 🌱 Currently learning Flask, PostgreSQL, SQLAlchemy, REST APIs, and deployment
-📚 Practicing Data Structures & Algorithms and LeetCode
 🚀 Working toward a Software Engineering internship
 
 Connect with me:
