@@ -1,9 +1,9 @@
-Hi, I'm Tony 👋
+Hey, I'm Tony 👋
 
 Software engineering student at UCI passionate about backend development, web applications, and building software that solves real-world problems.
 
 👨‍💻 About Me
-🎓 Computer Science student
+🎓 Software Engineering student
 💻 Interested in Backend Software Engineering
 🌱 Currently learning Flask, PostgreSQL, SQLAlchemy, REST APIs, and deployment
 📚 Practicing Data Structures & Algorithms and LeetCode
